@@ -52,7 +52,6 @@ class App extends Component {
       joined: data.joined
     }})
   }
-
   // componentDidMount() {
   //   fetch('http://localhost:3000/')
   //   .then(response => response.json())
